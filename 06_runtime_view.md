@@ -11,4 +11,5 @@ Se describe a continuación un escenario crítico del sistema correspondiente al
 
 ## Diagrama de Secuencia
 
-![Diagrama de Secuencia](./imagenes/secuencia_registro_producto.png)
+
+<img width="703" height="569" alt="c3" src="https://github.com/user-attachments/assets/3dcee4c8-5b58-420e-a9e7-6c6845dbc287" />
