@@ -5,7 +5,8 @@ El sistema ERP está compuesto por diferentes contenedores que separan las respo
 
 ## Diagrama de Contenedores (C2)
 
-![Diagrama de Contenedores](./imagenes/c2_containers.png)
+<img width="700" height="936" alt="c2" src="https://github.com/user-attachments/assets/e3e2a7da-0e48-46e9-a7da-c74bedf41d39" />
+
 
 ## Responsabilidades de los Contenedores
 
