@@ -7,4 +7,5 @@ El sistema también se integra con un sistema contable externo para el envío de
 
 ## Diagrama de Contexto (C1)
 
-![Diagrama de Contexto](./imagenes/c1_context.png)
+<img width="318" height="478" alt="c1" src="https://github.com/user-attachments/assets/9318b5aa-05b5-4983-9269-ca4e0470cbd2" />
+
